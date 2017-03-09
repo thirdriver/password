@@ -1,0 +1,13 @@
+{
+    "name": "thirdriver/password",
+    "description": "laravel password",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thirdriver",
+            "email": "a793544531@163.com"
+        }
+    ],
+    "require": {}
+}
